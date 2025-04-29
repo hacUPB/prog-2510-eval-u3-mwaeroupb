@@ -6,7 +6,7 @@ En esta unidad aprenderemos a escribir código más **claro** y **organizado** u
 - Bucles
 - Listas
 
-Estoy motivado(a) por aprender y mejorar mi desempeño.  
+Estoy motivada por aprender y mejorar mi desempeño.  
 > *"La claridad es el primer paso hacia un gran programa."*
 
 ---
